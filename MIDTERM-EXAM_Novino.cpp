@@ -16,8 +16,8 @@ int main()
     string appliance = " ";
     int app = 0;
     float powCons = 0; //power consumption in watts
-    float hrs = 0;
-    float E = 0;
+    float hrs = 0; //hours appliance is used
+    float E = 0; //kWh/day
     float costPH = 0; //cost per Hour
     float costPD = 0; //per day
     float costPM = 0; //per month
